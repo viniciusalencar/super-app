@@ -1,0 +1,3 @@
+[submodule "src/apps/micro-app"]
+	path = src/apps/micro-app
+	url = https://github.com/viniciusalencar/micro-app
